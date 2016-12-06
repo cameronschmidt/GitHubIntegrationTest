@@ -5,5 +5,5 @@ month = (month * 1) + 1
 day = test.getDate()
 year = test.getFullYear()
 
-document.write("US date format: ",month,"/",day,"/",year," ")
+document.write("Hello, world, the date is ",day,"/",month,"/",year,"!" )
 
