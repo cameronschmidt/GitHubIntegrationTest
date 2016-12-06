@@ -1,6 +1,4 @@
-// FIXME: eliminated one let but there are others
-
-let test = new Date()
+test = new Date()
 month = test.getMonth()
 month = (month * 1) + 1
 day = test.getDate()
