@@ -1,3 +1,4 @@
+// Adding some comments to check that changes are checked
 
 test = new Date()
 month = test.getMonth()
