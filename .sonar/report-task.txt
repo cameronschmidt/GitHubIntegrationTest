@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:sonar-github-integration
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube:sonar-github-integration
+ceTaskId=AVjZXWHg8N5zOkjbg8A3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVjZXWHg8N5zOkjbg8A3
